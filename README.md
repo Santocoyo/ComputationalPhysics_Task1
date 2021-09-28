@@ -1,1 +1,1 @@
-# ConputationalPhysics_Task1
+# ComputationalPhysics_Task1
